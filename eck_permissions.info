@@ -1,0 +1,5 @@
+name = ECK Easy Permissions
+description = Simplifies the way to administer permissions for ECK
+core = 7.x
+package = Leafbit
+version = 1.0
